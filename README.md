@@ -11,3 +11,6 @@ Fine-tune an embedding model to understand **relationship compatibility** using 
 | Quantized LoRA | Finetune using 4-bit quantization + LoRA adapters |
 | Instructional Alignment | Format prompts as natural instructions for better generalization |
 | Evaluation | Use similarity scores, clustering, and recall to benchmark |
+
+
+![img.png](img.png)

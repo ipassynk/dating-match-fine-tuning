@@ -29,6 +29,10 @@ The training data consists of synthetic dating compatibility pairs in JSONL form
 - **Categories:** lifestyle, interests, values, dealbreakers, realistic examples
 - **Pair types:** dealbreaker, complex, LLM-judged, realistic, subtle mismatch
 
+## Results Summary
+![img.png](img.png)
+![img_1.png](img_1.png)
+
 ## Technical Training Details
 
 The model training employs several advanced techniques for efficient fine-tuning:
